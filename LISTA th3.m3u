@@ -2,13 +2,9 @@
  
 #EXTINF:-1,*DJ prueba 3
  
-https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
-#EXTINF:0 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/35511039_177553142890870_198997164947406848_n.jpg?_nc_cat=0&_nc_eui2=AeFw-eVLJVg-JvFLapyCiLi6pzJDwibFOQa7aBxmTRYg4q50FlhsbZixFX5KNjGZVMRjGC7WQ1EBQtsGS-OvhaRkHvT7yy_qYSwLkz8KrizK6Q&oh=8749e47aca9a48ddf4b4eb8b4e2162b0&oe=5BA1DC7B" group-title="LISTASM3UIPTV.COM", listasm3uiptv.com JULIO 2018
-https://www.youtube.com/watch?v=Z_ogAzaPxTE
-
-#EXTINF:-1,Canal TyC Sport SD
+#EXTINF:0,Canal TyC Sport SD
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
-#EXTINF:-1,Canal 13 SD
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/46_141.ts
+#EXTINF:1,Canal 11 SD
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1624057007~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=2ae43f2ee65aca22b4fa725625f33120e2bbdf6872502ad7e5ec497abbccab2c
