@@ -16,7 +16,6 @@ https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/segment162397124_480_av-p.ts?sd=
 #EXTINF:3, gdfgffd
 https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/segment162397125_480_av-p.ts?sd=10&rebase=on&id=AgC1LS4BtSxKBy7Vy2B0GycWu6tMXNnkCrGzrmaGaqzt9IoCVN1WbNaMG9QmfsT3U7bPXpsYl0FGdw%3d%3d&hdntl=exp=1623992718~acl=/*~data=hdntl~hmac=2b427983154c6fb384078c1cf967b6bfb69529b1db8276da0e23a1698537d50e
 
-#EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-KEY:METHOD=AES-128,
