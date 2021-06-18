@@ -40,8 +40,10 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1624027426~exp=1624203826~acl=/i/canal5rosario_1@685724/*~hmac=44748c45d0555e7fb51e9b72939b516e5eba748c35b42cbf3a2f5fd564a9cf3d
 
 #EXTINF:12,ESPN
-https://televisionlibre.net/embed/drmplayer.html?get=Ly9jaHJvbWVjYXN0LmN2YXR0di5jb20uYXIvbGl2ZS8vYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0VTUE4ySEQubXBk
+https://edge-live31-sl.cvattv.com.ar/live//c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
+#EXTINF:13,DIRECTV SPORTS
+https://teleriumtv.com/ingest03/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=0_TNWf6klJuzlcgK3c35RA&expires=1624032480&rnd=71388
 
-
-
+#EXTINF:13,ESPN 2
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/f.m3u8
