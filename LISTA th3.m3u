@@ -16,7 +16,7 @@ https://e1.cdnfoxtv.com/ingest08/67657.m3u8?sf=bExBQ1lzM0xVVQ==&token=lgdtK11wR2
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1195763172.m3u8?WebM3UCL
 
 #EXTINF:3,CANAL 11
-http://new-pro.tv:80/HAMASHAREF27/XSmR2Vnlht/73543
+http://ultrontv.xyz:80/Tamara/Tamara/50578
 
 #EXTINF:4 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg", Telefe Rosario  | AR
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
@@ -91,7 +91,7 @@ http://142.44.246.107:25461/live/683902418/683902418/21931.m3u8?token=T0QJVEZaRF
 http://23.237.212.102:25461/live/ag4636mm12/wp1193gp93/2014.m3u8?token=Q0FYAkZRGwoVAAYJAgUHBgZSUlFWDAcDBVNSUQAJBwBZUANVBgANAQ4TGBsVR0ZVAw48W1EXXwcCBFVPQERBB0o8WQcXAxsBAQgEAF4HFhxAFwpfUBdfBR4XEQoGEwhAClYJVQEbFRJSSUBcFF1VXD0HBkRcVgAXCFsUDw4dEA1WPFQGWFhXVBULFglEHxZZERNBCFtACVkeFwMKFkNTFl1BCkEHCwsDFR0WWglGWkQQGkEIF3Q3Fx4XBBsWVFwRUQxeQQ8bVANCCRYVRFpHbxAGEEZHUARYV0dDWUABEE4aDlEbalpWXllUV00PXFpDQFlBABcZR1hdWwgXDUNtElEHElkXCggHDgUWRA==
 
 #EXTINF:21, animal Planet Hd
-http://23.237.212.102:25461/live/ag4636mm12/wp1193gp93/2013.m3u8?token=Q0FYAkZRGwoVVAVbAwoFU1pbVVBXVlQNBgRVAQQJVlEMUAdXVAEBBg8TGBsVR0ZVAw48W1EXXwcCBFJPQERBB0o8WQcXAxsBAQgEAF4HFhxAFwpfUBdfBR4XEQoGEwhACVYCUgAbFRJSSUBcFF1VXD0HBkRcVgAXCFsUDw4dEA1WPFQGWFhXVBULFglEHxZZERNBCFtACVkeFwMKFkNTFl1BCkEBDAAEFR0WWglGWkQQGkEIF3Q3Fx4XBBsWVFwRUQxeQQ8bVANCCRYVRFpHbxAGEEZHUARYV0dDWUABEE4aDlEbalpWXllUV00PXFpDQFlBABcZR1hdWwgXDUNtElEHElkXCggHDwQWRA==
+http://ultrontv.xyz:80/Tamara/Tamara/37682
 
 #EXTINF:21, HISTORY Hd
 http://54.39.16.47:25461/live/683902418/683902418/21886.m3u8
@@ -155,6 +155,195 @@ http://23.237.212.102:25461/live/ag4636mm12/wp1193gp93/135890.m3u8?token=Q0FYAkZ
 
 #EXTINF:40,tyc APP 
 http://149.56.44.214:25461/live/xg2418va26/nj5764bg28/133844.m3u8?token=Q0FYAkZRGwoVCQ0BXlUCAlJUUAsBA1IEV1YCU1MFU1QABQZVBgFbUgETGBsVR0ZVAw48W1EXXwQBBllXVh0QF0sGQjxcXRsKFQACAFcDBglAT0FGXFgAFwgFTUESWFZAAkEEVwUOGxwVVExNA0FaUQ48B1dDXAZQEA8PFg5dHkBXDW8HUFRYXlMTDhtXERgSCxATEA9bEFleGUMBC0VAA0wGElkXDwsIABMYGwVcQV4WERoQDxckZxAZQwYaRVcMSwpfDRcDG10ERAwbShFdQz0RBkFBRwBUX1ATQVgTAkAUQV0CTWZaX1lfUVoSWlteEUFZEAcXSRdfWg8KFl5APUgKVEEPGw0DAAIWRA==
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY CHANNEL" tvg-logo="" group-title="MEXICO",MX (SD) TP DISCOVERY CHANNEL
+http://ultrontv.xyz:80/Tamara/Tamara/37732
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CARTOON NETWORK" tvg-logo="" group-title="MEXICO",MX (SD) TP CARTOON NETWORK
+http://ultrontv.xyz:80/Tamara/Tamara/37725
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CINECANAL" tvg-logo="" group-title="MEXICO",MX (SD) TP CINECANAL
+http://ultrontv.xyz:80/Tamara/Tamara/37726
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX ACTION" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX ACTION
+http://ultrontv.xyz:80/Tamara/Tamara/37758
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CHANNEL" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX CHANNEL
+http://ultrontv.xyz:80/Tamara/Tamara/37759
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CINEMA" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX CINEMA
+http://ultrontv.xyz:80/Tamara/Tamara/37760
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CLASSICS" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX CLASSICS
+http://ultrontv.xyz:80/Tamara/Tamara/37761
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX LIFE" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX LIFE
+http://ultrontv.xyz:80/Tamara/Tamara/37762
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX MOVIE" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX MOVIE
+http://ultrontv.xyz:80/Tamara/Tamara/37763
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX NEWS" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX NEWS
+http://ultrontv.xyz:80/Tamara/Tamara/37764
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SERIES" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX SERIES
+http://ultrontv.xyz:80/Tamara/Tamara/37765
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX SPORTS
+http://ultrontv.xyz:80/Tamara/Tamara/37766
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 2" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX SPORTS 2
+http://ultrontv.xyz:80/Tamara/Tamara/37767
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 3" tvg-logo="" group-title="MEXICO",MX (SD) TP FOX SPORTS 3
+http://ultrontv.xyz:80/Tamara/Tamara/37768
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FX" tvg-logo="" group-title="MEXICO",MX (SD) TP FX
+http://ultrontv.xyz:80/Tamara/Tamara/37769
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FXM" tvg-logo="" group-title="MEXICO",MX (SD) TP FXM
+http://ultrontv.xyz:80/Tamara/Tamara/37770
+
+#EXTINF:-1 tvg-id="" tvg-name="AR GOURMET" tvg-logo="" group-title="ARGENTINA",AR GOURMET
+http://ultrontv.xyz:80/Tamara/Tamara/50539
+
+#EXTINF:-1 tvg-id="" tvg-name="AR H2" tvg-logo="" group-title="ARGENTINA",AR H2
+http://ultrontv.xyz:80/Tamara/Tamara/50540
+
+#EXTINF:-1 tvg-id="" tvg-name="AR HBO_2" tvg-logo="" group-title="ARGENTINA",AR HBO_2
+http://ultrontv.xyz:80/Tamara/Tamara/50541
+
+#EXTINF:-1 tvg-id="" tvg-name="AR HBO_FAMILY" tvg-logo="" group-title="ARGENTINA",AR HBO_FAMILY
+http://ultrontv.xyz:80/Tamara/Tamara/50542
+
+#EXTINF:-1 tvg-id="" tvg-name="AR HBO" tvg-logo="" group-title="ARGENTINA",AR HBO
+http://ultrontv.xyz:80/Tamara/Tamara/50543
+
+#EXTINF:-1 tvg-id="" tvg-name="AR HBO PLUS" tvg-logo="" group-title="ARGENTINA",AR HBO PLUS
+http://ultrontv.xyz:80/Tamara/Tamara/50544
+
+#EXTINF:-1 tvg-id="" tvg-name="AR HBO SIGNATURE" tvg-logo="" group-title="ARGENTINA",AR HBO SIGNATURE
+http://ultrontv.xyz:80/Tamara/Tamara/50545
+
+#EXTINF:-1 tvg-id="" tvg-name="AR AMERICA_24" tvg-logo="" group-title="ARGENTINA",AR AMERICA_24
+http://ultrontv.xyz:80/Tamara/Tamara/50482
+
+#EXTINF:-1 tvg-id="" tvg-name="AR AMERICA (D)" tvg-logo="" group-title="ARGENTINA",AR AMERICA (D)
+http://ultrontv.xyz:80/Tamara/Tamara/50483
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ARGENTINISIMA" tvg-logo="" group-title="ARGENTINA",AR ARGENTINISIMA
+http://ultrontv.xyz:80/Tamara/Tamara/50484
+
+#EXTINF:-1 tvg-id="" tvg-name="AR AXN" tvg-logo="" group-title="ARGENTINA",AR AXN
+http://ultrontv.xyz:80/Tamara/Tamara/50485
+
+#EXTINF:-1 tvg-id="" tvg-name="AR BABY_TV" tvg-logo="" group-title="ARGENTINA",AR BABY_TV
+http://ultrontv.xyz:80/Tamara/Tamara/50486
+
+#EXTINF:-1 tvg-id="" tvg-name="AR BOOMERANG" tvg-logo="" group-title="ARGENTINA",AR BOOMERANG
+http://ultrontv.xyz:80/Tamara/Tamara/50487
+
+#EXTINF:-1 tvg-id="" tvg-name="AR C5N" tvg-logo="" group-title="ARGENTINA",AR C5N
+http://ultrontv.xyz:80/Tamara/Tamara/50488
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_13" tvg-logo="" group-title="ARGENTINA",AR CANAL_13
+http://ultrontv.xyz:80/Tamara/Tamara/50489
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_21" tvg-logo="" group-title="ARGENTINA",AR CANAL_21
+http://ultrontv.xyz:80/Tamara/Tamara/50490
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_9" tvg-logo="" group-title="ARGENTINA",AR CANAL_9
+http://ultrontv.xyz:80/Tamara/Tamara/50491
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CANAL_DE_LA_CIUDAD" tvg-logo="" group-title="ARGENTINA",AR CANAL_DE_LA_CIUDAD
+http://ultrontv.xyz:80/Tamara/Tamara/50492
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CANALDELAMUSICA" tvg-logo="" group-title="ARGENTINA",AR CANALDELAMUSICA
+http://ultrontv.xyz:80/Tamara/Tamara/50493
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CARTOON_NETWORK" tvg-logo="" group-title="ARGENTINA",AR CARTOON_NETWORK
+http://ultrontv.xyz:80/Tamara/Tamara/50494
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CINEAR" tvg-logo="" group-title="ARGENTINA",AR CINEAR
+http://ultrontv.xyz:80/Tamara/Tamara/50495
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CINECANAL" tvg-logo="" group-title="ARGENTINA",AR CINECANAL
+http://ultrontv.xyz:80/Tamara/Tamara/50496
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CINEMAX" tvg-logo="" group-title="ARGENTINA",AR CINEMAX
+http://ultrontv.xyz:80/Tamara/Tamara/50497
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CIUDAD_MAGAZINE" tvg-logo="" group-title="ARGENTINA",AR CIUDAD_MAGAZINE
+http://ultrontv.xyz:80/Tamara/Tamara/50498
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CNN_EN_ESPANOL" tvg-logo="" group-title="ARGENTINA",AR CNN_EN_ESPANOL
+http://ultrontv.xyz:80/Tamara/Tamara/50499
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CNN" tvg-logo="" group-title="ARGENTINA",AR CNN
+http://ultrontv.xyz:80/Tamara/Tamara/50500
+
+#EXTINF:-1 tvg-id="" tvg-name="AR COMEDY" tvg-logo="" group-title="ARGENTINA",AR COMEDY
+http://ultrontv.xyz:80/Tamara/Tamara/50501
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CONEXION" tvg-logo="" group-title="ARGENTINA",AR CONEXION
+http://ultrontv.xyz:80/Tamara/Tamara/50502
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CONSTRUIR" tvg-logo="" group-title="ARGENTINA",AR CONSTRUIR
+http://ultrontv.xyz:80/Tamara/Tamara/50503
+
+#EXTINF:-1 tvg-id="" tvg-name="AR CRONICA" tvg-logo="" group-title="ARGENTINA",AR CRONICA
+http://ultrontv.xyz:80/Tamara/Tamara/50504
+
+#EXTINF:-1 tvg-id="" tvg-name="AR DEPOR TV" tvg-logo="" group-title="ARGENTINA",AR DEPOR TV
+http://ultrontv.xyz:80/Tamara/Tamara/50505
+
+#EXTINF:-1 tvg-id="" tvg-name="AR DISNEY" tvg-logo="" group-title="ARGENTINA",AR DISNEY
+http://ultrontv.xyz:80/Tamara/Tamara/50506
+
+#EXTINF:-1 tvg-id="" tvg-name="AR DISNEY_JUNIOR" tvg-logo="" group-title="ARGENTINA",AR DISNEY_JUNIOR
+http://ultrontv.xyz:80/Tamara/Tamara/50507
+
+#EXTINF:-1 tvg-id="" tvg-name="AR DISNEY_XD" tvg-logo="" group-title="ARGENTINA",AR DISNEY_XD
+http://ultrontv.xyz:80/Tamara/Tamara/50508
+
+#EXTINF:-1 tvg-id="" tvg-name="AR DW" tvg-logo="" group-title="ARGENTINA",AR DW
+http://ultrontv.xyz:80/Tamara/Tamara/50509
+
+#EXTINF:-1 tvg-id="" tvg-name="AR E!" tvg-logo="" group-title="ARGENTINA",AR E!
+http://ultrontv.xyz:80/Tamara/Tamara/50510
+
+#EXTINF:-1 tvg-id="" tvg-name="AR Encuentro HD" tvg-logo="" group-title="ARGENTINA",AR Encuentro HD
+http://ultrontv.xyz:80/Tamara/Tamara/50511
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN Extra (D)" tvg-logo="" group-title="ARGENTINA",AR ESPN Extra (D)
+http://ultrontv.xyz:80/Tamara/Tamara/50512
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN 2 HD (D)" tvg-logo="" group-title="ARGENTINA",AR ESPN 2 HD (D)
+http://ultrontv.xyz:80/Tamara/Tamara/50513
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN 3 HD (D)" tvg-logo="" group-title="ARGENTINA",AR ESPN 3 HD (D)
+http://ultrontv.xyz:80/Tamara/Tamara/50514
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN HD (P)" tvg-logo="" group-title="ARGENTINA",AR ESPN HD (P)
+http://ultrontv.xyz:80/Tamara/Tamara/50515
+
+#EXTINF:-1 tvg-id="" tvg-name="AR EUROPA" tvg-logo="" group-title="ARGENTINA",AR EUROPA
+http://ultrontv.xyz:80/Tamara/Tamara/50516
+
+#EXTINF:-1 tvg-id="" tvg-name="AR FILM_&_ARTS" tvg-logo="" group-title="ARGENTINA",AR FILM_&_ARTS
+http://ultrontv.xyz:80/Tamara/Tamara/50517
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
