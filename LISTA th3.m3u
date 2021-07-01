@@ -3,16 +3,16 @@
 #EXTINF:-1,*DJ prueba 3
  
 
-#EXTINF:0,Canal TyC Sport SD
+#EXTINF:-1,Canal TyC Sport SD
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
 #EXTINF:0,Canal TyC Sport HD
 https://5avpkx3mbm.azcdn381.net:8443/hls/66x0o71mv37k.m3u8?s=BNGn0fOQEaXXBNKFeh-VNA&e=1625203057
 
-#EXTINF:1,DIRECT TV SPORT
+#EXTINF:-1,DIRECT TV SPORT
 https://5avpkx3mbm.azcdn381.net:8443/hls/rxqe49ux6e.m3u8?s=tEXCwDRiAAYL9TM9yA5c1w&e=1625202619
 
-#EXTINF:1,DIRECT TNT SPORT
+#EXTINF:-1,DIRECT TNT SPORT
 https://5avpkx3mbm.azcdn381.net:8443/hls/kqfqxg.m3u8?s=1SR1H3xGGe1QMrzYL-rwwg&e=1625202897
 
 
