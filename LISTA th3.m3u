@@ -12,9 +12,13 @@ https://5avpkx3mbm.azcdn381.net:8443/hls/66x0o71mv37k.m3u8?s=BNGn0fOQEaXXBNKFeh-
 #EXTINF:-1,DIRECT TV SPORT
 https://5avpkx3mbm.azcdn381.net:8443/hls/rxqe49ux6e.m3u8?s=tEXCwDRiAAYL9TM9yA5c1w&e=1625202619
 
-#EXTINF:-1,DIRECT TNT SPORT
-https://5avpkx3mbm.azcdn381.net:8443/hls/kqfqxg.m3u8?s=1SR1H3xGGe1QMrzYL-rwwg&e=1625202897
+#EXTINF:-1,DIRECT TV SPORT+
+https://5avpkx3mbm.azcdn381.net:8443/hls/a9542miji.m3u8?s=hSKHzG2Gy2W-d1Hl0KaCHw&e=1625209889
 
+
+
+#EXTINF:-1,TNT SPORT
+https://5avpkx3mbm.azcdn381.net:8443/hls/kqfqxg.m3u8?s=1SR1H3xGGe1QMrzYL-rwwg&e=1625202897
 
 #EXTINF:2,CANAL 13
 https://e1.cdnfoxtv.com/ingest08/67657.m3u8?sf=bExBQ1lzM0xVVQ==&token=lgdtK11wR2GnajLVNIOmFw&expires=1624333692&rnd=
@@ -138,12 +142,14 @@ https://5avpkx3mbm.azcdn381.net:8443/hls/yzfwp0ngkv.m3u8?s=pxhfdwfoaLBSDzHaYg9vq
 #EXTINF:-1,ARG| ESPN 2
 https://5avpkx3mbm.azcdn381.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=giwTazqZzUdch08BR5mqaw&e=1625209573
 
+#EXTINF:-1,ARG| DISCOVERY CHANNEL
+https://5avpkx3mbm.azcdn381.net:8443/hls/vyymlg.m3u8?s=QTa3-OEDWWWGfIcwcT9P0w&e=1625210318
 
+#EXTINF:-1,ARG| HISTORY CHANNEL
+https://5avpkx3mbm.azcdn381.net:8443/hls/17v00przcmhii.m3u8?s=7ZPgnW7AjaVMvdFIYKb9Yw&e=1625210396
 
-
-
-
-
+#EXTINF:-1,ARG| HISTORY CHANNEL 2
+https://5avpkx3mbm.azcdn381.net:8443/hls/17v00przcmhii.m3u8?s=7ZPgnW7AjaVMvdFIYKb9Yw&e=1625210396
 
 
 
