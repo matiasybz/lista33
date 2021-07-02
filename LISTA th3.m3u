@@ -87,9 +87,15 @@ https://5avpkx3mbm.azcdn381.net:8443/hls/glaldsq.m3u8?s=5H1m6jNg_g5yel5X78oOaw&e
 #EXTINF:-1,ARG| CINECANAL
 https://5avpkx3mbm.azcdn381.net:8443/hls/ymv0a1aobkxuf.m3u8?s=eEaAppZvPKhkMP_FwlgPqg&e=1625204817
 
-#EXTINF:-1,ARG| VH1 MEGAHITS HD
+#EXTINF:-1,ARG| Venus
+https://5avpkx3mbm.azcdn381.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=LYsA1WoMIPkKrBNDZblCJg&e=1625205051
 
-#EXTINF:-1,ARG| VOLVER
+#EXTINF:-1,ARG| HBO
+https://5avpkx3mbm.azcdn381.net:8443/hls/lbqtn3.m3u8?s=7B1eJBdVSQSjq2LaBM5b_Q&e=1625205727
+
+#EXTINF:-1,ARG| HBO 2
+#EXTINF:-1,ARG| HBO
+https://5avpkx3mbm.azcdn381.net:8443/hls/lbqtn3.m3u8?s=7B1eJBdVSQSjq2LaBM5b_Q&e=1625205727
 
 #EXTINF:-1,ARG| WARNER HD
 
